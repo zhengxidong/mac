@@ -31,11 +31,21 @@ Mac 开发相关工具或常用工具
       > PHP命名空间解析器
     * Bracket Pair Colorrizer
       > 用来区分括号
-    * vscode-icons 
-      > 不同的文件类型显示不一样的图标
     * Chinese(Simplified) Language 
       > 中文语言包
   * 主题插件
-    * 
+    * One Dark Pro
+      > 源于 Atom 的 One Dark Theme，在配色上 One Dark Pro 要更为丰富一些。
+    * Atom One Dark Theme
+      > 优雅的主题
+    * Material Theme 
+      > 一个简单而又干净的主题，有很多配置选项，有5种配色方案，并带有文件图标设计。
+  * 侧栏图标插件
+    * vscode-icons
+      > 目前在插件库的主题分类中排行第一的插件
+    * Material Icon Theme
+      > 延续 Material 的扁平风格，图标设计十分精美，赏心悦目。
+    * VSCode Great Icons
+      > 下载量也很高的一款图标插件，整体设计中规中矩。
 * Atom
 * sublime

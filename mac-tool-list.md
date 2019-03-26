@@ -7,7 +7,9 @@ Mac 开发相关工具或常用工具
 
 ## 开发工具
 * Visual Studio Code
-  * 插件
+  * 开发插件
+    * phpfmt
+      > 格式化PHP代码
     * Code Runner
       > 运行代码，仅在编辑器中就能运行代码片段
     * PHP Debug 
@@ -30,5 +32,9 @@ Mac 开发相关工具或常用工具
       > 用来区分括号
     * vscode-icons 
       > 不同的文件类型显示不一样的图标
+    * Chinese(Simplified) Language 
+      > 中文语言包
+  * 主题插件
+    * 
 * Atom
 * sublime

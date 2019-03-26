@@ -24,7 +24,7 @@ Mac 开发相关工具或常用工具
       > 智能感知
     * PHP IntelliSense
       > 智能感知
-        要求 php>=7 这个有使用演示，不清楚和上一个有什么区别
+        要求 php>=7 这个有使用演示，不清楚和上一个有什么区别,需要配置php7路径
     * PHP Intellisense - Crane
       > 使用类时，能得到类中成员、属性的提示
     * PHP Namespace Resolver

@@ -3,10 +3,9 @@ Mac 开发相关工具或常用工具
 
 ## 管理工具
 * Redis客户端可视化工具
-
-  [RedisDesktopManager](https://github.com/onewe/RedisDesktopManager-Mac/releases)
+  * [RedisDesktopManager](https://github.com/onewe/RedisDesktopManager-Mac/releases)
 * MySQL连接工具
-  [mycli](https://www.mycli.net/)
+  * [mycli](https://www.mycli.net/)
   
 ## 开发工具
 * Visual Studio Code

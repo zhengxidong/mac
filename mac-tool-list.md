@@ -54,5 +54,5 @@ Mac 开发相关工具或常用工具
 * sublime
 
 ## 其它工具
-* 百度网盘(加速下载)
+* 百度网盘加速工具(加速下载)
   * [downloader](https://github.com/high-speed-downloader/high-speed-downloader)

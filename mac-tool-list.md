@@ -8,7 +8,7 @@ Mac 开发相关工具或常用工具
   
 * MySQL命令行工具
   * [mycli](https://www.mycli.net/)
-  
+
 ## 开发工具
 * Visual Studio Code
   * 开发插件
@@ -52,3 +52,7 @@ Mac 开发相关工具或常用工具
       > 下载量也很高的一款图标插件，整体设计中规中矩。
 * Atom
 * sublime
+
+## 其它工具
+* 百度网盘(加速下载)
+  * [downloader](https://github.com/high-speed-downloader/high-speed-downloader)
